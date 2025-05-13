@@ -1,0 +1,1 @@
+This is my first HTML project as I progress through the Odin Project. Through this project I learned about adding links to images and other webpages, how to add headers, and how to create lists. I look forward to continuing my coding journey!
